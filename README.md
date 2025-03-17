@@ -290,7 +290,7 @@ Votre créature peut effectuer de nombreuses actions, chacune consommant du temp
 
 Toutes ces actions font également progresser le temps, ce qui affecte les attributs de la créature (diminution naturelle de la faim, de l'énergie et du bonheur).
 
-## 🖥️ Interface utilisateur
+## 💻 Interface utilisateur
 
 L'interface en ligne de commande est enrichie par l'utilisation de couleurs ANSI et d'emojis pour une meilleure lisibilité :
 
