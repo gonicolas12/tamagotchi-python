@@ -23,6 +23,7 @@ Un simulateur de créature virtuelle complet inspiré des Tamagotchis, entièrem
 - [Dépendances](#-dépendances)
 - [Crédits et remerciements](#-crédits-et-remerciements)
 - [Licence](#-licence)
+- [Message final](#-message-final)
 
 ## 🎮 Introduction
 
@@ -113,7 +114,7 @@ L'âge est calculé en jours (et heures) et augmente à chaque action que vous e
 
 Si la santé de votre créature atteint 0, elle meurt malheureusement. Un message commémoratif s'affiche, indiquant l'âge atteint.
 
-## 🌦️ Système météorologique
+## ⛅ Système météorologique
 
 Un système météorologique dynamique influence l'humeur de votre créature. La météo change chaque jour (en temps de jeu) et offre différents effets :
 
